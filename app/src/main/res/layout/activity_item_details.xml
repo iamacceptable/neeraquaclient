@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    tools:context=".ItemDetails">
+
+    <FrameLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <me.relex.circleindicator.CircleIndicator
+            android:id="@+id/indicator"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_gravity="bottom"/>
+
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/itemDetailImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/bottle_item"
+        app:layout_constraintBottom_toTopOf="@id/proceedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/relativeLayout"
+        app:layout_constraintVertical_bias="0.0"/>
+
+    <Button
+        android:id="@+id/proceedBtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorPrimary"
+        android:drawableEnd="@drawable/arrow_right"
+        android:drawableRight="@drawable/arrow_right"
+        android:fontFamily="@font/opensanssemibold"
+        android:gravity="center"
+        android:paddingEnd="8dp"
+        android:paddingRight="8dp"
+        android:visibility="gone"
+        android:text="Proceed Ahead"
+        android:textAllCaps="false"
+        android:textColor="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:ignore="RtlSymmetry"
+        tools:targetApi="jelly_bean"/>
+
+    <TextView
+        android:id="@+id/itemDetailName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/opensanssemibold"
+        android:gravity="center_horizontal"
+        android:text="Bisleri Bottle"
+        android:textColor="#312E2E"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@id/proceedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/itemDetailImage"
+        app:layout_constraintTop_toBottomOf="@id/relativeLayout"
+        app:layout_constraintVertical_bias="0.0"
+        tools:targetApi="jelly_bean"/>
+
+    <TextView
+        android:id="@+id/itemDetailPrice"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/opensanssemibold"
+        android:gravity="center_horizontal"
+        android:text="₹ 2000"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@id/proceedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/itemDetailImage"
+        app:layout_constraintTop_toBottomOf="@id/itemDetailName"
+        app:layout_constraintVertical_bias="0.0"
+        tools:targetApi="jelly_bean"/>
+
+    <TextView
+        android:id="@+id/itemDetailQuantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensanssemibold"
+        android:gravity="center_horizontal"
+        android:text="₹ 2000"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/itemDetailPrice"
+        app:layout_constraintStart_toStartOf="@+id/itemDetailPrice"
+        app:layout_constraintTop_toBottomOf="@+id/itemDetailPrice"
+        tools:targetApi="jelly_bean"/>
+
+    <TextView
+        android:id="@+id/itemDetailReview"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:drawableLeft="@drawable/star"
+        android:drawableStart="@drawable/star"
+        android:fontFamily="@font/opensansregular"
+        android:text=" 5.0 (20 Review)"
+        android:textSize="15sp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@id/proceedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/itemDetailImage"
+        app:layout_constraintTop_toBottomOf="@id/itemDetailPrice"
+        app:layout_constraintVertical_bias="0.0"
+        tools:targetApi="jelly_bean"/>
+
+    <TextView
+        android:id="@+id/itemDetailDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Description\n20lbs\nlorem ispum"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/proceedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/itemDetailImage"
+        app:layout_constraintVertical_bias="0.0"/>
+
+    <Spinner
+        android:id="@+id/timeSlotSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_marginEnd="8dp"
+        android:visibility="gone"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/itemDetailDescription"
+        app:layout_constraintTop_toBottomOf="@id/itemDetailDescription"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

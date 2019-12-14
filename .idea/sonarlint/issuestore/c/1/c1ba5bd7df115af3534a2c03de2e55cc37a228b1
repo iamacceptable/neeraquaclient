@@ -1,0 +1,8 @@
+
+Qsquid:S10685".Remove this unused "proceedBtn" private field.(¥üÌ—ıÿÿÿÿ8§§§ß-
+|squid:S14505"YRemove the "proceedBtn" field and declare it as a local variable in the relevant methods.(¥üÌ—ıÿÿÿÿ8»Ã–ÒÔ-
+lsquid:UselessImportCheck*"ARemove this unused import 'android.content.Context.MODE_PRIVATE'.(–Ù¶8ÏÔ§ß-
+xsquid:UselessImportCheck+"HRemove this unused import 'com.vgeekers.pani.TerminalConstant.MY_PREFS'.(°ãŒúÿÿÿÿ8ÏÔ§ß-
+vsquid:UselessImportCheck,"KRemove this unused import 'com.vgeekers.pani.TerminalConstant.USER_ID_KEY'.(¾“Ê¹8ÏÔ§ß-
+Isquid:S1068",Remove this unused "timeSlot" private field.(“Ã‹V8ÏÔ§ß-
+nsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(‚ÜÑ€ûÿÿÿÿ8ÏÔ§ß-

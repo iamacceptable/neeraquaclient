@@ -1,0 +1,5 @@
+
+vsquid:S1450/"XRemove the "signUpBtn" field and declare it as a local variable in the relevant methods.(öàÇü8œÀíšÍ-
+esquid:UnusedPrivateMethod„"3Remove this unused private "facebookLogout" method.(à€èúÿÿÿÿ8±÷‡×Ó-
+Ysquid:S2696V"6Make the enclosing method "static" or remove this set.(é÷ŠÔıÿÿÿÿ8…¼˜Î-
+osquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(°ˆ¿Ùşÿÿÿÿ8±÷‡×Ó-

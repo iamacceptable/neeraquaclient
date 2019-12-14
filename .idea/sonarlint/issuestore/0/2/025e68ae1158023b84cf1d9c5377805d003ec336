@@ -1,0 +1,4 @@
+
+{squid:S1450,"]Remove the "signUpPassword" field and declare it as a local variable in the relevant methods.(‰å—–8ÙŞˆ¸Ñ-
+Psquid:S1068,"2Remove this unused "signUpPassword" private field.(‰å—–8ÙŞˆ¸Ñ-
+€squid:S14501"]Remove the "editProfileBtn" field and declare it as a local variable in the relevant methods.(—§„üÿÿÿÿ8öÙÙÒ-

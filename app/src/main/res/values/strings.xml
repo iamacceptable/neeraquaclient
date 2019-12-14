@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Neer Aqua</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="menu_terms_condtions">Terms and Conditions</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="hello_blank_fragment">No DATA!!</string>
+    <string name="Demo_text">
+        Lorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nullapariatur.\nLorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nullapariatur.\nLorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nullapariatur.\nLorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nullapariatur.\nLorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nullapariatur.\nLorem ipsum dolor sit amet, consecteturadipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nullapariatur.
+    </string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]> </string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string-array name="city">
+        <item>Delhi</item>
+        <item>Dehradun</item>
+        <item>Shimla</item>
+        <item>Baraut</item>
+    </string-array>
+    <string-array name="state">
+        <item>UP</item>
+        <item>UK</item>
+        <item>MP</item>
+        <item>Jharkhand</item>
+    </string-array>
+    <string name="prompt_city">Choose a City</string>
+    <string name="prompt_state">Choose a State</string>
+    <string name="sample_mobile">8934023658</string>
+    <string name="sample_password">12345678</string>
+
+    <string name="FACEBOOK_APP_ID">471529553698519</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">32fb6a53b620bcdb7b30531f5054ab68</string>
+    <string name="enter_the_details">Enter the Details</string>
+    <string name="mobile">Mobile</string>
+    <string name="full_name">Full Name</string>
+    <string name="house_no_flat_no">House No./Flat No.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="address">Address</string>
+    <string name="forgot_password">Forgot Password???</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="contactusData">For any query contact us at:\n\nPhone: +91 9971972314\nEmail: neeraqua15@gmail.com</string>
+    <string name="my_orders">My Orders</string>
+    <string name="please_select_a_time_slot_for_delivery">Please select a Time slot for delivery</string>
+    <string name="my_cart">My Cart</string>
+
+</resources>

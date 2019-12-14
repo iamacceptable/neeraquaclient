@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25000644094",
+    "firebase_url": "https://neer-aqua-client.firebaseio.com",
+    "project_id": "neer-aqua-client",
+    "storage_bucket": "neer-aqua-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25000644094:android:e4d38f0d3d4e3f33b804af",
+        "android_client_info": {
+          "package_name": "com.vgeekers.neeraqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25000644094-08264mu3a385qmdq336rppa5knvt2kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvCkMV3sUuwE9Og5n_Etw1eNCxJSToa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25000644094-08264mu3a385qmdq336rppa5knvt2kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
