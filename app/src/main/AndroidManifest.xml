@@ -44,6 +44,7 @@
 
         <activity
             android:name="com.facebook.accountkit.ui.AccountKitActivity" />
+
         <service
             android:name=".FCMServices.FcmMessagingService"
             android:exported="false">
