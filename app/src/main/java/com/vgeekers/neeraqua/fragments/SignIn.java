@@ -13,6 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import com.google.android.material.textfield.TextInputLayout;
+import com.google.firebase.iid.FirebaseInstanceId;
 import com.vgeekers.neeraqua.ForgotPassword;
 import com.vgeekers.neeraqua.MainActivity;
 import com.vgeekers.neeraqua.R;
@@ -75,7 +76,8 @@ public class SignIn extends BaseFragment {
         showProgress();
         String mobile = authSignInMobile.getEditText().getText().toString().trim();
         String password = authSignInPassword.getEditText().getText().toString().trim();
-        RetrofitApi.getPaniServicesObject().getLoginResponse(mobile, password).enqueue(new Callback<LoginResponse>() {
+        String token = FirebaseInstanceId.getInstance().getToken();
+        RetrofitApi.getPaniServicesObject().getLoginResponse(mobile, password, token).enqueue(new Callback<LoginResponse>() {
             @Override
             public void onResponse(@NonNull Call<LoginResponse> call, @NonNull Response<LoginResponse> response) {
                 stopProgress();
