@@ -30,7 +30,7 @@ public interface PaniServices {
 
     @POST("sign_up.php")
     @FormUrlEncoded
-    Call<CommonResponse> getSignUpResponse(@Field("name") String userName, @Field("mobile") String mobileNumber, @Field("password") String password, @Field("hno") String address, @Field("state") String state, @Field("city") String city, @Field("locality") String locality);
+    Call<CommonResponse> getSignUpResponse(@Field("name") String userName, @Field("mobile") String mobileNumber, @Field("password") String password, @Field("hno") String address, @Field("state") String state, @Field("city") String city, @Field("locality") String locality,@Field("token") String token);
 
     @POST("update_profile.php")
     @FormUrlEncoded
@@ -42,7 +42,7 @@ public interface PaniServices {
 
     @POST("login.php")
     @FormUrlEncoded
-    Call<LoginResponse> getLoginResponse(@Field("mobile") String mobileNumber, @Field("password") String password);
+    Call<LoginResponse> getLoginResponse(@Field("mobile") String mobileNumber, @Field("password") String password, @Field("token") String token);
 
     @POST("forgot_password.php")
     @FormUrlEncoded

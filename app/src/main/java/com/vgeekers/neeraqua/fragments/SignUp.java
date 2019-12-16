@@ -18,6 +18,8 @@ import com.facebook.accountkit.ui.AccountKitActivity;
 import com.facebook.accountkit.ui.AccountKitConfiguration;
 import com.facebook.accountkit.ui.LoginType;
 import com.google.android.material.textfield.TextInputLayout;
+import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.messaging.FirebaseMessaging;
 import com.vgeekers.neeraqua.Authentication;
 import com.vgeekers.neeraqua.R;
 import com.vgeekers.neeraqua.TerminalConstant;
@@ -44,7 +46,6 @@ public class SignUp extends BaseFragment {
     private Spinner signUpLocality;
     private Spinner city;
     private Spinner state;
-    private Button signUpBtn;
     private String mStateSelected = "";
     private String mCitySelected = "";
     private String mLocalitySelected = "";
@@ -64,7 +65,7 @@ public class SignUp extends BaseFragment {
         signUpLocality = v.findViewById(R.id.signUpLocality);
         city = v.findViewById(R.id.city);
         state = v.findViewById(R.id.state);
-        signUpBtn = v.findViewById(R.id.signUpBtn);
+        Button signUpBtn = v.findViewById(R.id.signUpBtn);
         setupStateSpinner1();
         signUpBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -182,8 +183,9 @@ public class SignUp extends BaseFragment {
         String userName = signUpName.getEditText().getText().toString().trim();
         String userPassword = signUpPassword.getEditText().getText().toString().trim();
         String userHouseNumber = signUphouseNo.getEditText().getText().toString().trim();
+        String token = FirebaseInstanceId.getInstance().getToken();
         showProgress();
-        RetrofitApi.getPaniServicesObject().getSignUpResponse(userName, userMobile, userPassword, userHouseNumber, mStateSelected, mCitySelected, mLocalitySelected).enqueue(new Callback<CommonResponse>() {
+        RetrofitApi.getPaniServicesObject().getSignUpResponse(userName, userMobile, userPassword, userHouseNumber, mStateSelected, mCitySelected, mLocalitySelected, token).enqueue(new Callback<CommonResponse>() {
             @Override
             public void onResponse(@NonNull Call<CommonResponse> call, @NonNull Response<CommonResponse> response) {
                 stopProgress();
