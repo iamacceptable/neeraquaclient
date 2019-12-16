@@ -1,19 +1,20 @@
 package com.vgeekers.neeraqua;
 
-import android.content.SharedPreferences;
-import android.widget.ImageView;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
-
-import com.google.firebase.iid.FirebaseInstanceId;
+import android.widget.ImageView;
+import androidx.appcompat.app.AppCompatActivity;
+import com.daimajia.androidanimations.library.Techniques;
+import com.daimajia.androidanimations.library.YoYo;
 
 import static com.vgeekers.neeraqua.TerminalConstant.MY_PREFS;
 import static com.vgeekers.neeraqua.TerminalConstant.USER_LOGIN_DONE_KEY;
 
 public class SplashActivity extends AppCompatActivity {
+
+    private static final long ANIMATION_DURATION = 2200;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +34,6 @@ public class SplashActivity extends AppCompatActivity {
                 finish();
             }
         }, 2500);
-        System.out.println(FirebaseInstanceId.getInstance().getToken());
+        YoYo.with(Techniques.FadeIn).duration(ANIMATION_DURATION).playOn(view);
     }
 }

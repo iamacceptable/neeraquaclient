@@ -178,7 +178,7 @@ public class SignUp extends BaseFragment {
         });
     }
 
-    public void getSignUpApiCall() {
+    private void getSignUpApiCall() {
         String userMobile = signUpMobile.getEditText().getText().toString().trim();
         String userName = signUpName.getEditText().getText().toString().trim();
         String userPassword = signUpPassword.getEditText().getText().toString().trim();
@@ -207,10 +207,6 @@ public class SignUp extends BaseFragment {
             }
         });
     }
-
-
-
-
 
     /*
      * Facebook Otp verification
@@ -251,7 +247,6 @@ public class SignUp extends BaseFragment {
                 // loginResult.getAuthorizationCode()
                 // and pass it to your server and exchange it for an access token.
                 // Success! Start your next activity...
-                //goToMyLoggedInActivity();
             }
             // Surface the result to your user in an appropriate way.
             showToast(toastMessage);
