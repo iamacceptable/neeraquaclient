@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
+            "outputFile": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\5ff62f86862d6e9c3ffec4cf9bffe63a\\jetified-firebase-messaging-20.1.0\\res\\values-fa\\values.xml",

@@ -1,28 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:21:1-55:12
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:21:1-55:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db9255c067b780a7c572b06624c74ec9\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3387fedf7b7ee430aa113e43f8d35cb9\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\846ad0a8128e6e5213e943bf1c2fdf73\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7ebffa8086774ef9dacada5d4fa5eed3\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3e86404208bcdbfefe3809dccae6a465\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
-MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4d71ce5cc762f2c06084defa25d7e2ba\jetified-circleindicator-1.2.2\AndroidManifest.xml:2:1-12:12
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a31ad1838c5c4919d892974d3397e37c\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\373efda93479f1ec49ba6ab94a7f7e79\jetified-circleindicator-1.2.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e3ef76ebd1e02915d9df71e36b73f817\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4320aea43e7684666cea23a0a8020c3b\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3eb7c6e0de45dbde5ff8e7cabe631344\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5e96a65c35e197ff4c9a0c6b7953d65d\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1dc5c70f8fbd7c0da86c03ddde56531b\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5107f863b841968b22231bf66a6549ef\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b058b44ee58d2a75a4d0bd2a0dd05927\jetified-firebase-iid-20.0.2\AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\336a7f481d59aa45e478a06fff2522bb\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1e5fc5198c6d9839e72c94df55bcbad\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\641d46c729325fdfa8c0b551d7c4b863\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\628a8ab4d6c86e07143948e12c71242a\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5cc0563b9254276e715d254894b188ce\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7a46dbc62e0cf88ce7ddbdc10308194b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
@@ -52,12 +52,12 @@ MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\tr
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b625e3461e0becd03b0a1ef16f83355f\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\20e99ee17839ad0da478781b72bd9750\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f7e1c43c81a9b406e76f7a7a11547972\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [com.daimajia.easing:library:2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c961622820dd38639b4f6095c194b97b\jetified-library-2.1\AndroidManifest.xml:2:1-12:12
-MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\38cf25df92ebdbea583b8ebee9217f69\jetified-library-2.3\AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.rubensousa:raiflatbutton:0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\402e58ba582bc025244b4f942ea39d03\jetified-raiflatbutton-0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.easing:library:2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4a2ba77af7933082873721a5d0671b7\jetified-library-2.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\42f9551f70da04ae932a57c82820ba73\jetified-library-2.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.rubensousa:raiflatbutton:0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3ba5d0d259c70833dbc12f558204e7bb\jetified-raiflatbutton-0.1\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c8d1c59528307c83501a8e87e26c5c36\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f4c801fa621e821d138b12320b69c470\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bac747befd81d959b4605026f3189ae1\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b1156b8e5267a0e76790e636cd941379\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\04b502d4b8bea99315f61ddd6ded2b47\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2000c298900799a9af1a3229c958c230\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\aaafd11f3f9e58c62f18871ee2438fa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:15:1-41:12
@@ -75,27 +75,27 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\0acf6ece0450ce4018f13caa71872c02\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\27e1773a2f9d5d0d2e01f007ea39e632\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\516400e5873cc81b65f67b55964d41f1\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
 	package
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:4:11-42
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:4:11-42
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:3:11-57
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:6:5-66
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5e96a65c35e197ff4c9a0c6b7953d65d\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
@@ -109,33 +109,33 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2000c298900799a9af1a3229c958c230\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2000c298900799a9af1a3229c958c230\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.CALL_PHONE
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:7:5-68
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:7:5-68
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:7:22-66
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:7:22-66
 uses-permission#android.permission.VIBRATE
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:10:5-66
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:10:5-66
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:10:22-63
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:10:22-63
 application
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:12:5-58:19
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:28:5-53:19
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:28:5-53:19
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:12:5-58:19
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db9255c067b780a7c572b06624c74ec9\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db9255c067b780a7c572b06624c74ec9\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\846ad0a8128e6e5213e943bf1c2fdf73\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\846ad0a8128e6e5213e943bf1c2fdf73\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3e86404208bcdbfefe3809dccae6a465\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3e86404208bcdbfefe3809dccae6a465\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a31ad1838c5c4919d892974d3397e37c\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a31ad1838c5c4919d892974d3397e37c\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e3ef76ebd1e02915d9df71e36b73f817\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e3ef76ebd1e02915d9df71e36b73f817\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5e96a65c35e197ff4c9a0c6b7953d65d\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
@@ -168,8 +168,8 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\hp\.
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a3868cfe05c2f399c5d125639d82ee9f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f7e1c43c81a9b406e76f7a7a11547972\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f7e1c43c81a9b406e76f7a7a11547972\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bac747befd81d959b4605026f3189ae1\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bac747befd81d959b4605026f3189ae1\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b1156b8e5267a0e76790e636cd941379\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b1156b8e5267a0e76790e636cd941379\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2000c298900799a9af1a3229c958c230\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2000c298900799a9af1a3229c958c230\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\aaafd11f3f9e58c62f18871ee2438fa2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
@@ -179,117 +179,117 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hp
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f7e1c43c81a9b406e76f7a7a11547972\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:15:9-41
 	tools:ignore
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:19:9-35
 	android:roundIcon
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:16:9-52
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:16:9-52
 	android:icon
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:14:9-40
 	android:allowBackup
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:18:9-40
 activity#com.vgeekers.neeraqua.OtpActivity
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:20:9-69
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:20:9-69
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:20:19-67
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:20:19-67
 activity#com.vgeekers.neeraqua.ForgotPassword
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:21:9-73
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:21:9-73
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:21:19-70
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:21:19-70
 activity#com.vgeekers.neeraqua.Authentication
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:22:9-73
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:22:9-73
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:22:19-70
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:22:19-70
 activity#com.vgeekers.neeraqua.SplashActivity
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:23:19-70
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:23:19-70
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:25:25-66
 action#android.intent.action.VIEW
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.vgeekers.neeraqua.MainActivity
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:30:9-35:20
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:30:9-35:20
 	android:label
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:32:13-45
 	android:theme
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:33:13-56
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:31:13-62
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:31:13-62
 meta-data#com.facebook.accountkit.ApplicationName
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:37:9-38:55
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:37:9-38:55
 	android:value
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:38:20-52
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:38:20-52
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:37:20-74
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:37:20-74
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:39:9-40:62
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:39:9-40:62
 	android:value
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:40:20-59
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:40:20-59
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:39:20-65
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:39:20-65
 meta-data#com.facebook.accountkit.ClientToken
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:41:9-42:71
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:41:9-42:71
 	android:value
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:42:20-68
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:42:20-68
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:41:20-70
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:41:20-70
 meta-data#com.facebook.accountkit.FacebookAppEventsEnabled
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:44:9-45:43
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:44:9-45:43
 	android:value
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:45:20-41
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:45:20-41
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:44:20-83
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:44:20-83
 activity#com.facebook.accountkit.ui.AccountKitActivity
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:47:9-48:76
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:29:9-34:58
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:29:9-34:58
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:47:9-48:76
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:29:9-34:58
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:29:9-34:58
 	android:label
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:31:13-65
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:31:13-65
 	android:launchMode
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:32:13-43
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:32:13-43
 	android:windowSoftInputMode
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:34:13-55
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:34:13-55
 	android:theme
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:33:13-52
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:33:13-52
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:48:13-73
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:48:13-73
 activity#com.vgeekers.neeraqua.SignUpOtpActivity
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:49:9-55
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:49:9-55
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:49:19-52
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:49:19-52
 service#com.vgeekers.neeraqua.FCMServices.FcmMessagingService
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:51:9-57:19
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:51:9-57:19
 	android:exported
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:53:13-37
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:53:13-37
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:52:13-60
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:52:13-60
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:54:13-56:29
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:54:13-56:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:55:17-78
+ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:55:17-78
 	android:name
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:55:25-75
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml:55:25-75
 uses-sdk
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:24:5-26:41
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:24:5-26:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db9255c067b780a7c572b06624c74ec9\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db9255c067b780a7c572b06624c74ec9\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3387fedf7b7ee430aa113e43f8d35cb9\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -298,20 +298,20 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hp\.grad
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\846ad0a8128e6e5213e943bf1c2fdf73\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7ebffa8086774ef9dacada5d4fa5eed3\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7ebffa8086774ef9dacada5d4fa5eed3\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3e86404208bcdbfefe3809dccae6a465\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3e86404208bcdbfefe3809dccae6a465\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4d71ce5cc762f2c06084defa25d7e2ba\jetified-circleindicator-1.2.2\AndroidManifest.xml:8:5-10:41
-MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4d71ce5cc762f2c06084defa25d7e2ba\jetified-circleindicator-1.2.2\AndroidManifest.xml:8:5-10:41
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a31ad1838c5c4919d892974d3397e37c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a31ad1838c5c4919d892974d3397e37c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\373efda93479f1ec49ba6ab94a7f7e79\jetified-circleindicator-1.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\373efda93479f1ec49ba6ab94a7f7e79\jetified-circleindicator-1.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e3ef76ebd1e02915d9df71e36b73f817\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e3ef76ebd1e02915d9df71e36b73f817\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4320aea43e7684666cea23a0a8020c3b\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\4320aea43e7684666cea23a0a8020c3b\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3eb7c6e0de45dbde5ff8e7cabe631344\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3eb7c6e0de45dbde5ff8e7cabe631344\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5e96a65c35e197ff4c9a0c6b7953d65d\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
@@ -324,8 +324,8 @@ MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\hp\.gradle\caches
 MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b058b44ee58d2a75a4d0bd2a0dd05927\jetified-firebase-iid-20.0.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\336a7f481d59aa45e478a06fff2522bb\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\336a7f481d59aa45e478a06fff2522bb\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1e5fc5198c6d9839e72c94df55bcbad\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c1e5fc5198c6d9839e72c94df55bcbad\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\641d46c729325fdfa8c0b551d7c4b863\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\641d46c729325fdfa8c0b551d7c4b863\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\628a8ab4d6c86e07143948e12c71242a\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\628a8ab4d6c86e07143948e12c71242a\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5cc0563b9254276e715d254894b188ce\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
@@ -384,18 +384,18 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hp
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\20e99ee17839ad0da478781b72bd9750\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f7e1c43c81a9b406e76f7a7a11547972\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f7e1c43c81a9b406e76f7a7a11547972\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.daimajia.easing:library:2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c961622820dd38639b4f6095c194b97b\jetified-library-2.1\AndroidManifest.xml:8:5-10:41
-MERGED from [com.daimajia.easing:library:2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c961622820dd38639b4f6095c194b97b\jetified-library-2.1\AndroidManifest.xml:8:5-10:41
-MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\38cf25df92ebdbea583b8ebee9217f69\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
-MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\38cf25df92ebdbea583b8ebee9217f69\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.rubensousa:raiflatbutton:0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\402e58ba582bc025244b4f942ea39d03\jetified-raiflatbutton-0.1\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.rubensousa:raiflatbutton:0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\402e58ba582bc025244b4f942ea39d03\jetified-raiflatbutton-0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4a2ba77af7933082873721a5d0671b7\jetified-library-2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d4a2ba77af7933082873721a5d0671b7\jetified-library-2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\42f9551f70da04ae932a57c82820ba73\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\42f9551f70da04ae932a57c82820ba73\jetified-library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rubensousa:raiflatbutton:0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3ba5d0d259c70833dbc12f558204e7bb\jetified-raiflatbutton-0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rubensousa:raiflatbutton:0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\3ba5d0d259c70833dbc12f558204e7bb\jetified-raiflatbutton-0.1\AndroidManifest.xml:8:5-10:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c8d1c59528307c83501a8e87e26c5c36\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c8d1c59528307c83501a8e87e26c5c36\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f4c801fa621e821d138b12320b69c470\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f4c801fa621e821d138b12320b69c470\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bac747befd81d959b4605026f3189ae1\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\bac747befd81d959b4605026f3189ae1\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b1156b8e5267a0e76790e636cd941379\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b1156b8e5267a0e76790e636cd941379\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\04b502d4b8bea99315f61ddd6ded2b47\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\04b502d4b8bea99315f61ddd6ded2b47\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2000c298900799a9af1a3229c958c230\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
@@ -430,40 +430,40 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\t
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\27e1773a2f9d5d0d2e01f007ea39e632\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\516400e5873cc81b65f67b55964d41f1\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\516400e5873cc81b65f67b55964d41f1\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		ADDED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
-		INJECTED from G:\android_projects\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		ADDED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Vgeekers\project_pani\neer_aqua_client_azeem\app\src\main\AndroidManifest.xml
 activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
-ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:35:9-38:40
+ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:35:9-38:40
 	android:noHistory
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:38:13-37
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:38:13-37
 	android:exported
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:37:13-36
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:36:13-86
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:36:13-86
 provider#com.facebook.accountkit.internal.AccountKitInitProvider
-ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:49:9-52:40
+ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:49:9-52:40
 	android:authorities
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:51:13-76
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:51:13-76
 	android:exported
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:52:13-37
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:52:13-37
 	android:name
-		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\93fe83d61d00b6632205e77dd1fcfa61\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:50:13-83
+		ADDED from [com.facebook.android:account-kit-sdk:5.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b4d921e2e51aa7846a0324ecb3f26c69\jetified-account-kit-sdk-5.0.0\AndroidManifest.xml:50:13-83
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\d9315dc283c28ae7a482df42cd1273c1\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\acb8c7df1ae5254a0a60f9918417279a\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:28:9-34:19
 	android:exported
@@ -495,23 +495,23 @@ ADDED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\c
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:20.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5ff62f86862d6e9c3ffec4cf9bffe63a\jetified-firebase-messaging-20.1.0\AndroidManifest.xml:39:17-119
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\b2b15b7dc84d748ffc3ee792cefd573c\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\c106e92942961cab566098aba932bae8\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\a64fdcfa03808e61a5375d6479cc0542\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5e96a65c35e197ff4c9a0c6b7953d65d\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79

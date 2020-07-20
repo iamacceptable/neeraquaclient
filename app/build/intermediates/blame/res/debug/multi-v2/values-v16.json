@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\3387fedf7b7ee430aa113e43f8d35cb9\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
@@ -23,17 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\f7e1c43c81a9b406e76f7a7a11547972\\core-1.1.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\93fe83d61d00b6632205e77dd1fcfa61\\jetified-account-kit-sdk-5.0.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\b4d921e2e51aa7846a0324ecb3f26c69\\jetified-account-kit-sdk-5.0.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2,5,8,11,14",
                         "startColumns": "4,4,4,4,4",
@@ -49,6 +39,16 @@
                         "endLines": "5,8,11,14,17",
                         "endColumns": "12,12,12,12,12",
                         "endOffsets": "276,419,571,713,861"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\f7e1c43c81a9b406e76f7a7a11547972\\core-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

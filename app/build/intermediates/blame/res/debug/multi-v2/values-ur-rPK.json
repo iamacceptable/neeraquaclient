@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur-rPK\\values-ur-rPK.xml",
+            "outputFile": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur-rPK\\values-ur-rPK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\93fe83d61d00b6632205e77dd1fcfa61\\jetified-account-kit-sdk-5.0.0\\res\\values-ur-rPK\\values-ur-rPK.xml",
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\b4d921e2e51aa7846a0324ecb3f26c69\\jetified-account-kit-sdk-5.0.0\\res\\values-ur-rPK\\values-ur-rPK.xml",
                     "from": {
                         "startLines": "2,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,266,271,277,284,290,295,296,297,300,301,302,305,306,307,308,309,310,311,312,313,314,315,316,319,320,321,322,323,324,325,326,329,330",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

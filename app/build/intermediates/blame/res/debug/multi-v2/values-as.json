@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
+            "outputFile": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\3387fedf7b7ee430aa113e43f8d35cb9\\appcompat-1.1.0\\res\\values-as\\values-as.xml",

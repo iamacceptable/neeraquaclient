@@ -1,938 +1,938 @@
 [
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_forgot_password.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\forgot_password.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_my_orders.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_my_orders.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_corners.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\image_corners.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_privacy_policy.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_privacy_policy.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanssemibolditalic.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanssemibolditalic.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_privacy_policy.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_privacy_policy.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_otp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\otp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_banner.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\banner.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_privacy_policy.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_privacy_policy.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\app_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansregular.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansregular.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_details.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_item_details.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_logo_circle.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo_circle.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottle_item.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\bottle_item.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\star.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_cart_white_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopping_cart_white_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_contact_us.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_contact_us.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_black_24dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_banner.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\banner.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_notification.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\notification.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bottle_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\bottle_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_contact_us.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_contact_us.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_shopping_cart_white_24dp.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_shopping_cart_white_24dp.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_home.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_home.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\anim\\rotate.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_logout.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\nav_logout.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\app_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_gradient.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\home_gradient.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_star.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\star.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_forgot_password.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\forgot_password.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nav_logout.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\nav_logout.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nav_logout.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\nav_logout.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_delete.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_delete.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_home.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_home.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_my_orders.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_my_orders.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_home.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_home.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_thanks.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\thanks.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_star.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\star.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_profile.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_profile.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_profile.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_profile.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansbold.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansbold.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notification.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\notification.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_profile.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_profile.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_my_orders.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_my_orders.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_positive.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\positive.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_negative.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\negative.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_notification.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\notification.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_negative.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\negative.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bottle_item.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\bottle_item.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_home.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_home.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bottle_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\bottle_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arrow_right.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\arrow_right.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bottle_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\bottle_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_items.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\order_items.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_star.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\star.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_key.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\key.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_negative.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\negative.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_contact_us.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_contact_us.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_logo_circle.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\app_logo_circle.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_cart.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_forgot_password.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\forgot_password.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_notification.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\notification.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_profile.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_profile.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\notification.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_black_24dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_negative.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\negative.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\star.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_positive.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\positive.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_nav_logout.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nav_logout.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_my_orders.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_my_orders.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_forgot_password.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\forgot_password.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_privacy_policy.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_privacy_policy.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_logo_circle.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\app_logo_circle.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\cart_items.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanssemibolditalic.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanssemibolditalic.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansitalic.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansitalic.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_negative.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\negative.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_otp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\otp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_home.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_home.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_otp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\otp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_terms_conditions.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_terms_conditions.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_forward_white.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_forward_white.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_forgot_password.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\forgot_password.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_negative.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\negative.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thanks.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\thanks.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_positive.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\positive.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otp.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_otp.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_star.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\star.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thanks.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\thanks.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_contact_us.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_contact_us.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentication.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_authentication.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_banner.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\banner.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_profile.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_profile.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\star.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_items.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\order_items.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_otp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\otp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_forward_white.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_forward_white.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\notification.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_black_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_black_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanslight.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanslight.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact_us.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_otp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\otp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansextrabolditalic.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansextrabolditalic.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_terms_conditions.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_terms_conditions.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_forward_white.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_forward_white.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_privacy_policy.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_privacy_policy.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_logo_circle.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\app_logo_circle.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_notification.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\notification.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_home.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_home.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bottle_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\bottle_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_black_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_black_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_banner.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\banner.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_water_truck.jpg.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\water_truck.jpg"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_black_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_black_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_positive.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\positive.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\notification.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\cart_items.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_positive.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\positive.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_logout.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\nav_logout.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_profile.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_profile.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nav_logout.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\nav_logout.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottle_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\bottle_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cart_floating_icon.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\cart_floating_icon.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\notification.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_key.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\key.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_privacy_policy.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_privacy_policy.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bottle_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\bottle_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_profile.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_profile.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gradient.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\button_gradient.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_offer.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\offer.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_offer.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\offer.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bottle_item.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\bottle_item.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nav_logout.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\nav_logout.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\anim_antirotate.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\anim\\antirotate.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_my_orders.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_my_orders.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_single_image.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\banner_single_image.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_cart_white_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopping_cart_white_24dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_otp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\otp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_forward_white.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_forward_white.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansextrabold.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansextrabold.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottle_item.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\bottle_item.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_key.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\key.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_thanks.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\thanks.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\app_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_otp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\otp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_contact_us.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_contact_us.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_privacy_policy.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_privacy_policy.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_forward_white.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_forward_white.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_timing_cart.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\timing_cart.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_contact_us.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_contact_us.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_forward_white.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_forward_white.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_forward_white.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_forward_white.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottle_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\bottle_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansextrabolditalic.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansextrabolditalic.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gradient.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\button_gradient.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_otp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\otp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_thanks.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\thanks.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_delete.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_delete.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_forgot_password.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\forgot_password.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_home.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_home.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nav_logout.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\nav_logout.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_banner.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\banner.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottle_available_item.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\bottle_available_item.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_privacy_policy.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_privacy_policy.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nav_logout.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\nav_logout.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\anim\\rotate.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_key.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\key.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thanks.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\thanks.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_my_orders.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_my_orders.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_terms_conditions.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_terms_conditions.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bottle_item.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\bottle_item.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_in.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_thanks.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\thanks.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_star.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\star.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_home.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_home.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_home.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_home.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bottle_item.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\bottle_item.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_terms_conditions.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_terms_conditions.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_up.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orders.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_orders.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_star.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\star.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_water_truck.jpg.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\water_truck.jpg"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_right.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\arrow_right.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bottle_item.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\bottle_item.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bottle_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\bottle_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notification.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\notification.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_privacy_policy.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_privacy_policy.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottle_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\bottle_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_right.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_positive.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\positive.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact_us.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_notification.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\notification.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansitalic.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansitalic.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_thanks.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\thanks.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_forward_white.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_forward_white.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_black_24dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cart_floating_icon.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\cart_floating_icon.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\app_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_my_orders.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_my_orders.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_gradient.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\home_gradient.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_in.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_terms_conditions.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_terms_conditions.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_contact_us.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_contact_us.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow_right.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_right.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_my_orders.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_my_orders.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_logo_circle.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo_circle.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_star.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\star.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_forgot_password.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\forgot_password.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_banner.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\banner.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_corners.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\image_corners.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_my_orders.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_my_orders.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_profile.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_profile.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_my_orders.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_my_orders.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bottle_item.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\bottle_item.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_logo_circle.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo_circle.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_home.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_home.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_positive.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\positive.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nav_logout.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\nav_logout.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_negative.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\negative.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_positive.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\positive.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_contact_us.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_contact_us.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_shopping_cart_white_24dp.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_shopping_cart_white_24dp.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_key.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\key.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_forward_white.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_forward_white.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_my_orders.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_my_orders.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansbolditalic.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansbolditalic.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_terms_conditions.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_terms_conditions.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_forgot_password.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\forgot_password.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_profile.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_profile.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_forward_white.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_forward_white.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanssemibold.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanssemibold.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_my_orders.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_my_orders.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_terms_conditions.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_terms_conditions.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_positive.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\positive.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_privacy_policy.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_privacy_policy.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nav_logout.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\nav_logout.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_thanking_page.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_thanking_page.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_thanking_page.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_thanking_page.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottle_available_item.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\bottle_available_item.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_otp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\otp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_contact_us.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_contact_us.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_profile.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_profile.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bottle_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\bottle_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_right.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\arrow_right.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottle_item.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\bottle_item.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arrow_right.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\arrow_right.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottle_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\bottle_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_key.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\key.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansextrabold.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansextrabold.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_privacy_policy.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_privacy_policy.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\key.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_black_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_terms_conditions.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_terms_conditions.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_back.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\gradient_back.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_privacy_policy.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_privacy_policy.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_negative.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\negative.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_positive.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\positive.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\app_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansregular.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansregular.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_terms_conditions.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_terms_conditions.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_banner.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\banner.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bottle_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\bottle_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_thanks.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\thanks.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_banner.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\banner.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_star.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\star.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_black_24dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nav_logout.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\nav_logout.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_logo_circle.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\app_logo_circle.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansbold.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansbold.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_forward_white.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_forward_white.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_terms_conditions.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_terms_conditions.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_contact_us.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_contact_us.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_profile.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_profile.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_contact_us.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_contact_us.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_cart.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_positive.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\positive.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_forward_white.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_forward_white.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_otp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\otp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_right.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_forgot_password.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\forgot_password.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_terms_conditions.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_terms_conditions.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_profile.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_profile.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_forward_white.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_forward_white.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_black_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bottle_item.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\bottle_item.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_home.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_home.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notification.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\notification.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_banner.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\banner.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_home.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_home.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bottle_item.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\bottle_item.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_forgot_password.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\forgot_password.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanslightitalic.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanslightitalic.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_back.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\gradient_back.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_terms_conditions.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_terms_conditions.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_up.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_profile.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_profile.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thanks.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\thanks.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_key.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\key.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_contact_us.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_contact_us.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_banner.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\banner.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_home.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_home.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_privacy_policy.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu_privacy_policy.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_banner.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\banner.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_otp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\otp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_otp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\otp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_negative.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\negative.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\dp.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\star.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_contact_us.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_contact_us.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_notification.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\notification.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_profile.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_profile.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_logo_circle.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\app_logo_circle.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_key.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xhdpi\\key.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_privacy_policy.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_privacy_policy.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_thanks.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\thanks.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_logout.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\nav_logout.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_thanks.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\thanks.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\anim_antirotate.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\anim\\antirotate.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentication.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otp.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_otp.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottle_item.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\bottle_item.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_negative.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\negative.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notification.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\notification.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanslight.ttf.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanslight.ttf"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_forward_white.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_forward_white.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_terms_conditions.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\fragment_terms_conditions.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_right.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_banner.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\banner.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu_contact_us.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu_contact_us.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensansbolditalic.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensansbolditalic.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\app_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\key.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_key.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\key.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_privacy_policy.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_privacy_policy.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_logo.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_logo_circle.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-hdpi\\app_logo_circle.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_terms_conditions.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_terms_conditions.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_my_orders.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu_my_orders.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orders.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_orders.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_negative.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\negative.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_timing_cart.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\timing_cart.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_terms_conditions.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_terms_conditions.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_details.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\activity_item_details.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_forgot_password.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\forgot_password.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_black_24dp.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_black_24dp.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanslightitalic.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanslightitalic.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_terms_conditions.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu_terms_conditions.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_positive.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-ldpi\\positive.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_my_orders.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu_my_orders.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_right.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_privacy_policy.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu_privacy_policy.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_single_image.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\layout\\banner_single_image.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow_right.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow_right.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_negative.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-hdpi\\negative.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_home.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu_home.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\font_opensanssemibold.ttf.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\font\\opensanssemibold.ttf"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_forgot_password.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-xxhdpi\\forgot_password.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_nav_logout.xml.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nav_logout.xml"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_key.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\drawable-mdpi\\key.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "G:\\android_projects\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_logo_circle.png.flat",
-        "source": "G:\\android_projects\\neer_aqua_client_azeem\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo_circle.png"
+        "merged": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "G:\\Vgeekers\\project_pani\\neer_aqua_client_azeem\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_black_24dp.png"
     }
 ]

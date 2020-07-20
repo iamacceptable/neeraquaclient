@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="com.vgeekers.neeraqua">
+          package="com.neeraqua.neerapp">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.CALL_PHONE"/>
@@ -17,10 +17,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup">
-        <activity android:name="com.vgeekers.neeraqua.OtpActivity"/>
-        <activity android:name="com.vgeekers.neeraqua.ForgotPassword" />
-        <activity android:name="com.vgeekers.neeraqua.Authentication" />
-        <activity android:name="com.vgeekers.neeraqua.SplashActivity" >
+        <activity android:name="com.neeraqua.neerapp.OtpActivity"/>
+        <activity android:name="com.neeraqua.neerapp.ForgotPassword" />
+        <activity android:name="com.neeraqua.neerapp.Authentication" />
+        <activity android:name="com.neeraqua.neerapp.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.vgeekers.neeraqua.MainActivity"
+            android:name="com.neeraqua.neerapp.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
 
@@ -46,10 +46,10 @@
 
         <activity
             android:name="com.facebook.accountkit.ui.AccountKitActivity" />
-        <activity android:name=".SignUpOtpActivity" />
+        <activity android:name="com.neeraqua.neerapp.SignUpOtpActivity" />
 
         <service
-            android:name=".FCMServices.FcmMessagingService"
+            android:name="com.neeraqua.neerapp.FCMServices.FcmMessagingService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />

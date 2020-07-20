@@ -1,34 +1,79 @@
 {
   "project_info": {
-    "project_number": "25000644094",
-    "firebase_url": "https://neer-aqua-client.firebaseio.com",
-    "project_id": "neer-aqua-client",
-    "storage_bucket": "neer-aqua-client.appspot.com"
+    "project_number": "993791213860",
+    "firebase_url": "https://paniclient.firebaseio.com",
+    "project_id": "paniclient",
+    "storage_bucket": "paniclient.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:25000644094:android:e4d38f0d3d4e3f33b804af",
+        "mobilesdk_app_id": "1:993791213860:android:5f42b7e29029733dc573b1",
         "android_client_info": {
-          "package_name": "com.vgeekers.neeraqua"
+          "package_name": "com.neeraqua.neerapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "25000644094-08264mu3a385qmdq336rppa5knvt2kvk.apps.googleusercontent.com",
+          "client_id": "993791213860-ufe7s0hblu5m2ecf6kus1fcibbdped2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neeraqua.neerapp",
+            "certificate_hash": "4619152316adb1119fec15c63089becd3a809dc7"
+          }
+        },
+        {
+          "client_id": "993791213860-4ckd9csf4tbgb5a3h3aulldtrb0gar7k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvvCkMV3sUuwE9Og5n_Etw1eNCxJSToa0"
+          "current_key": "AIzaSyBGKFNkZY5GkA-iFCnFcpXOafgs_GTR35M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "25000644094-08264mu3a385qmdq336rppa5knvt2kvk.apps.googleusercontent.com",
+              "client_id": "993791213860-4ckd9csf4tbgb5a3h3aulldtrb0gar7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993791213860:android:4e21ab349e3de8bdc573b1",
+        "android_client_info": {
+          "package_name": "com.vgeekers.neeraqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993791213860-omkhmi1n3f8hlq9b833tg99ar501lofj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vgeekers.neeraqua",
+            "certificate_hash": "4619152316adb1119fec15c63089becd3a809dc7"
+          }
+        },
+        {
+          "client_id": "993791213860-4ckd9csf4tbgb5a3h3aulldtrb0gar7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGKFNkZY5GkA-iFCnFcpXOafgs_GTR35M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993791213860-4ckd9csf4tbgb5a3h3aulldtrb0gar7k.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
