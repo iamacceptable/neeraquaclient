@@ -1,5 +1,6 @@
 package com.vgeekers.neeraqua;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -23,7 +24,22 @@ public class ForgotPassword extends AppCompatActivity {
     private TextInputLayout forgotPasswordMobile;
     private TextInputLayout forgotPasswordNewPassword;
     private TextInputLayout forgotPasswordConfirmPassword;
-    private Button sendOtp;
+    private ProgressDialog mProgressDialog;
+
+    private void showProgress() {
+        mProgressDialog = new ProgressDialog(this);
+        mProgressDialog.setTitle("Processing");
+        mProgressDialog.setMessage("Please Wait");
+        mProgressDialog.setCancelable(false);
+        mProgressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+        mProgressDialog.show();
+    }
+
+    private void stopProgress() {
+        if (mProgressDialog != null && mProgressDialog.isShowing()) {
+            mProgressDialog.dismiss();
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,7 +48,7 @@ public class ForgotPassword extends AppCompatActivity {
         forgotPasswordConfirmPassword = findViewById(R.id.forgotPasswrodConfirmPassword);
         forgotPasswordNewPassword = findViewById(R.id.forgotPasswordNewPassword);
         forgotPasswordMobile = findViewById(R.id.forgotPasswordMobile);
-        sendOtp = findViewById(R.id.sendOtpBtn);
+        Button sendOtp = findViewById(R.id.sendOtpBtn);
         sendOtp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -42,32 +58,35 @@ public class ForgotPassword extends AppCompatActivity {
                 new Thread(new Runnable() {
                     @Override
                     public void run() {
-                        sendFacebookOtpForVerification();
+                        passwordResetServerCall();
                     }
                 }).start();
             }
         });
     }
 
-    private void passwordResetServerCall(){
+    private void passwordResetServerCall() {
+        showProgress();
         String mobile = forgotPasswordMobile.getEditText().getText().toString();
         String password = forgotPasswordNewPassword.getEditText().getText().toString();
-        RetrofitApi.getPaniServicesObject().getForgotPasswordResponse(mobile,password).enqueue(new Callback<CommonResponse>() {
+        RetrofitApi.getPaniServicesObject().getForgotPasswordResponse(mobile, password).enqueue(new Callback<CommonResponse>() {
             @Override
             public void onResponse(@NonNull Call<CommonResponse> call, @NonNull Response<CommonResponse> response) {
-                if (response.isSuccessful()){
+                if (response.isSuccessful()) {
                     CommonResponse commonResponse = response.body();
-                    if (commonResponse!=null && commonResponse.getErrorCode().equals(TerminalConstant.SUCCESS)){
+                    if (commonResponse != null && commonResponse.getErrorCode().equals(TerminalConstant.SUCCESS)) {
                         Toast.makeText(ForgotPassword.this, commonResponse.getErrorMessage(), Toast.LENGTH_SHORT).show();
                         startActivity(new Intent(ForgotPassword.this, Authentication.class));
-                    } else if (commonResponse != null){
+                    } else if (commonResponse != null) {
                         Toast.makeText(ForgotPassword.this, commonResponse.getErrorMessage(), Toast.LENGTH_SHORT).show();
                     }
                 }
+                stopProgress();
             }
 
             @Override
             public void onFailure(@NonNull Call<CommonResponse> call, @NonNull Throwable t) {
+                stopProgress();
                 Toast.makeText(ForgotPassword.this, t.toString(), Toast.LENGTH_SHORT).show();
             }
         });
@@ -121,10 +140,6 @@ public class ForgotPassword extends AppCompatActivity {
         return true;
     }
 
-
-    /*
-    *
-    * */
     private static final int APP_REQUEST_CODE = 99;
 
     private void sendFacebookOtpForVerification() {

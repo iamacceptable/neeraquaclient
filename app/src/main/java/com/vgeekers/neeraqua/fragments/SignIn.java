@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 import androidx.annotation.NonNull;
@@ -14,8 +15,8 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.iid.FirebaseInstanceId;
-import com.vgeekers.neeraqua.ForgotPassword;
 import com.vgeekers.neeraqua.MainActivity;
+import com.vgeekers.neeraqua.OtpActivity;
 import com.vgeekers.neeraqua.R;
 import com.vgeekers.neeraqua.TerminalConstant;
 import com.vgeekers.neeraqua.response.LoginResponse;
@@ -58,7 +59,23 @@ public class SignIn extends BaseFragment {
         authForgotPassword.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getActivity(), ForgotPassword.class));
+                EditText mobileNumberEditText = authSignInMobile.getEditText();
+                if (mobileNumberEditText != null) {
+                    String mobile = mobileNumberEditText.getText().toString().trim();
+                    if (mobile.isEmpty()) {
+                        mobileNumberEditText.setError("This field is mandatory");
+                        mobileNumberEditText.requestFocus();
+                        return;
+                    }
+                    if (mobile.length() < 10) {
+                        mobileNumberEditText.setError("Valid Mobile Number is needed");
+                        mobileNumberEditText.requestFocus();
+                        return;
+                    }
+                    Intent otpIntent = new Intent(getActivity(), OtpActivity.class);
+                    otpIntent.putExtra("mobile", mobile);
+                    startActivity(otpIntent);
+                }
             }
         });
         authSignInBtn.setOnClickListener(new View.OnClickListener() {

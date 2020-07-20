@@ -48,6 +48,10 @@ public interface PaniServices {
     @FormUrlEncoded
     Call<CommonResponse> getForgotPasswordResponse(@Field("mobile") String mobileNumber, @Field("password") String password);
 
+    @POST("initiate_otp.php")
+    @FormUrlEncoded
+    Call<CommonResponse> initiateOtp(@Field("mobile") String mobileNumber);
+
     @POST("fetch_all_cities.php")
     @FormUrlEncoded
     Call<CityResponse> getCitiesResponse(@Field("state") String state);

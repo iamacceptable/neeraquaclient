@@ -91,7 +91,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/opensansregular"
-            android:text="+91 99999999XX"
+            android:text=""
             android:textSize="15dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -146,6 +146,23 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/itemImage"
             app:layout_constraintTop_toBottomOf="@+id/itemTime"
+            app:layout_constraintVertical_bias="0.0"/>
+
+
+        <TextView
+            android:id="@+id/itemPriceDet"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/opensansregular"
+            android:text="price"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/itemImage"
+            app:layout_constraintTop_toBottomOf="@+id/itemAddress"
             app:layout_constraintVertical_bias="0.0"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>

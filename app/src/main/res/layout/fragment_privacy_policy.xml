@@ -1,38 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-             xmlns:tools="http://schemas.android.com/tools"
-             android:layout_width="match_parent"
-             android:layout_height="match_parent"
-             tools:context=".fragments.PrivacyPolicyFragment">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.PrivacyPolicyFragment">
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <LinearLayout
+        <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient_back"
+            app:cardCornerRadius="10dp">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginVertical="8dp"
-                android:fontFamily="@font/opensanssemibold"
-                android:gravity="center_horizontal"
-                android:text="Privacy Policy"
-                android:textSize="25dp"/>
 
-            <TextView
-                android:id="@+id/privacyPolicyDataTextView"
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginHorizontal="16dp"
-                android:fontFamily="@font/opensansregular"
-                android:textSize="18dp"
-                tools:targetApi="jelly_bean"/>
-        </LinearLayout>
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginVertical="8dp"
+                    android:fontFamily="@font/opensansextrabold"
+                    android:gravity="center_horizontal"
+                    android:text="Privacy Policy"
+                    android:background="@drawable/home_gradient"
+                    android:textSize="25dp"/>
+
+                <TextView
+                    android:id="@+id/privacyPolicyDataTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="16dp"
+                    android:fontFamily="@font/opensansregular"
+                    android:textSize="18dp"
+                    tools:targetApi="jelly_bean"/>
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
     </ScrollView>
 
 </FrameLayout>

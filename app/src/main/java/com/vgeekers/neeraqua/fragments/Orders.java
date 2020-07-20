@@ -109,6 +109,8 @@ public class Orders extends BaseFragment {
             final Booking bottleAvailable = list.get(position);
             String date = "Date : " + bottleAvailable.getbDate();
             holder.itemDate.setText(date);
+            String priceBot="Rs: "+bottleAvailable.getPerPrice();
+            holder.itemPriceDet.setText(priceBot);
             holder.itemMobile.setText(bottleAvailable.getStatus());
             String brand = "Company : ".concat(bottleAvailable.getbBrand().toUpperCase());
             holder.itemAddress.setText(brand);
@@ -135,6 +137,7 @@ public class Orders extends BaseFragment {
             private TextView itemMobile;
             private TextView itemQuantity;
             private TextView itemAddress;
+            private TextView itemPriceDet;
 
             BottleAvailableViewHolder(View itemView) {
                 super(itemView);
@@ -144,6 +147,7 @@ public class Orders extends BaseFragment {
                 itemAddress = itemView.findViewById(R.id.itemAddress);
                 itemBrand = itemView.findViewById(R.id.itemBrandName);
                 itemQuantity = itemView.findViewById(R.id.itemQuantity);
+                itemPriceDet = itemView.findViewById(R.id.itemPriceDet);
             }
         }
     }

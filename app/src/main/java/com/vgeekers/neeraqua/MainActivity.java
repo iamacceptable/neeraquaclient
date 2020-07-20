@@ -28,8 +28,7 @@ import java.util.List;
 
 import static com.vgeekers.neeraqua.TerminalConstant.MY_PREFS;
 
-public class MainActivity extends AppCompatActivity
-    implements NavigationView.OnNavigationItemSelectedListener {
+public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     public static Toolbar toolbar;
 

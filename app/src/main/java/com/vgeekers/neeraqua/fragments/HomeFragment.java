@@ -16,7 +16,6 @@ import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 import com.bumptech.glide.Glide;
 import com.squareup.picasso.Picasso;
-import com.vgeekers.neeraqua.ItemDetails;
 import com.vgeekers.neeraqua.R;
 import com.vgeekers.neeraqua.TerminalConstant;
 import com.vgeekers.neeraqua.response.Bottle;
@@ -43,6 +42,8 @@ public class HomeFragment extends BaseFragment {
     private RecyclerView recyclerView;
     private ViewPager pager;
     private int currentPage = 0;
+    int count = 0;
+    TextView totalBottle;
 
     public HomeFragment() {
         // Required empty public constructor
@@ -56,7 +57,8 @@ public class HomeFragment extends BaseFragment {
         setupStateSpinner();
         recyclerView = view.findViewById(R.id.homeMainRecycler);
         pager = view.findViewById(R.id.pager);
-        view.findViewById(R.id.cartLayout).setOnClickListener(new View.OnClickListener() {
+        totalBottle = view.findViewById(R.id.tprice);
+        view.findViewById(R.id.proceedCart).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 FragmentLauncher.launchFragment(getActivity(), R.id.mainFrameLayout, new MyCartFragment(), true, false);
@@ -121,8 +123,10 @@ public class HomeFragment extends BaseFragment {
                     FetchAllBottlesResponse allBottlesResponse = response.body();
                     if (allBottlesResponse != null && allBottlesResponse.getErrorCode().equals(TerminalConstant.SUCCESS)) {
                         List<Bottle> bottleList = allBottlesResponse.getBottles();
+                        totalBottle.setText(allBottlesResponse.getBottlCount());
                         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
                         recyclerView.setAdapter(new BottleAvailableAdapter(bottleList));
+                        stopProgress();
                     }
                 }
             }
@@ -164,12 +168,12 @@ public class HomeFragment extends BaseFragment {
                 holder.itemTag.setVisibility(View.GONE);
             }
             holder.itemDescrition.setText(bottleAvailable.getBDescription());
-            String price = "₹ " + bottleAvailable.getBPrice();
+            final String price = "₹ " + bottleAvailable.getBPrice();
             holder.itemPrice.setText(price);
             if (getActivity() != null) {
                 Glide.with(getActivity()).load(bottleAvailable.getBImage()).placeholder(R.drawable.bottle_logo).into(holder.itemImage);
             }
-            final int[] counter = {1};
+            final int[] counter = {0};
             holder.itemQty.setText(String.valueOf(counter[0]));
             holder.positive.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -187,18 +191,27 @@ public class HomeFragment extends BaseFragment {
                     }
                 }
             });
-            holder.viewDetailBtn.setOnClickListener(new View.OnClickListener() {
+
+
+         /*   holder.viewDetailBtn.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
                     String counterValue = holder.itemQty.getText().toString().trim();
                     FragmentLauncher.launchFragment(getActivity(), R.id.mainFrameLayout, new ItemDetails(bottleAvailable, counterValue), true, false);
                 }
-            });
+            });*/
             holder.addToCartBtn.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
+                    //txtCart.setText(count);
+                    // Toast.makeText(getActivity(), ""+count, Toast.LENGTH_SHORT).show();
                     String quantity = holder.itemQty.getText().toString().trim();
-                    getAddToCartServerCall(bottleAvailable.getBId(), quantity, bottleAvailable.getBVendorId());
+                    if (quantity.equalsIgnoreCase("0")) {
+                        showToast("Please add atleast 1 bottle before adding in cart");
+                    } else {
+                        getAddToCartServerCall(bottleAvailable.getBId(), quantity, bottleAvailable.getBVendorId());
+                        getAllBottlesServerCall();
+                    }
                 }
             });
             //add to cart functionality by calling holder.addToCartBtn
@@ -220,7 +233,7 @@ public class HomeFragment extends BaseFragment {
             private ImageView positive;
             private ImageView negative;
             private Button addToCartBtn;
-            private Button viewDetailBtn;
+            // private Button viewDetailBtn;
 
             BottleAvailableViewHolder(View itemView) {
                 super(itemView);
@@ -233,19 +246,17 @@ public class HomeFragment extends BaseFragment {
                 positive = itemView.findViewById(R.id.positive);
                 negative = itemView.findViewById(R.id.negative);
                 addToCartBtn = itemView.findViewById(R.id.addToCartBtn);
-                viewDetailBtn = itemView.findViewById(R.id.viewDetailBtn);
+                //viewDetailBtn = itemView.findViewById(R.id.viewDetailBtn);
             }
         }
     }
 
     private void getAddToCartServerCall(String bottleAvailableId, String quantity, String bVendorId) {
-        showProgress();
         SharedPreferences prefs = getActivity().getSharedPreferences(MY_PREFS, MODE_PRIVATE);
         String loginId = prefs.getString(USER_ID_KEY, "");
-        RetrofitApi.getPaniServicesObject().addToCartServerCall(loginId, bottleAvailableId,quantity,bVendorId).enqueue(new Callback<CommonResponse>() {
+        RetrofitApi.getPaniServicesObject().addToCartServerCall(loginId, bottleAvailableId, quantity, bVendorId).enqueue(new Callback<CommonResponse>() {
             @Override
             public void onResponse(@NonNull Call<CommonResponse> call, @NonNull Response<CommonResponse> response) {
-                stopProgress();
                 if (response.isSuccessful()) {
                     CommonResponse commonResponse = response.body();
                     if (commonResponse != null && commonResponse.getErrorMessage() != null) {

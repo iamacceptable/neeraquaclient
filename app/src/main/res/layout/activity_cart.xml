@@ -6,8 +6,8 @@
                                                    android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/aggsgf"
-        android:layout_width="0dp"
+        android:id="@+id/prCart"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="@font/opensanssemibold"
         android:gravity="center_horizontal"
@@ -15,21 +15,43 @@
         android:textColor="#2E4058"
         android:textSize="20sp"
         android:padding="8dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
         tools:targetApi="jelly_bean" />
+
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/ordersRecycler"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/aggsgf" />
+        app:layout_constraintTop_toBottomOf="@+id/prCart" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@+id/cartLayout"
+        android:layout_marginTop="2dp"
+        android:id="@+id/txtid"
+
+
+        >
+
+        <TextView
+            android:id="@+id/totalprice"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="0.00"
+            android:textSize="20dp"
+                android:layout_marginRight="80dp"
+            android:layout_marginLeft="20dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="5dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/cartLayout"
@@ -37,16 +59,20 @@
         android:layout_height="50dp"
         android:layout_marginBottom="20dp"
         android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/txt"
         android:background="@drawable/cart_floating_icon"
         android:layout_marginRight="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
+
+
 
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="8dp"
+
             android:scaleType="fitCenter"
             android:src="@drawable/ic_arrow_forward_white"
             app:layout_constraintBottom_toBottomOf="parent"

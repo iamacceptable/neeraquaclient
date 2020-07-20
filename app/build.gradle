@@ -53,5 +53,7 @@ dependencies {
     implementation 'com.daimajia.easing:library:2.1@aar'
     implementation 'com.daimajia.androidanimations:library:2.3@aar'
 
+    implementation 'com.github.rubensousa:raiflatbutton:0.1'
+
 }
 apply plugin: 'com.google.gms.google-services'

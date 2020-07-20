@@ -4,10 +4,13 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import androidx.appcompat.app.AppCompatActivity;
 import com.daimajia.androidanimations.library.Techniques;
 import com.daimajia.androidanimations.library.YoYo;
+import com.vgeekers.neeraqua.fragments.HomeFragment;
 
 import static com.vgeekers.neeraqua.TerminalConstant.MY_PREFS;
 import static com.vgeekers.neeraqua.TerminalConstant.USER_LOGIN_DONE_KEY;
@@ -20,7 +23,8 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        ImageView view = findViewById(R.id.imageView);
+        final ImageView view = findViewById(R.id.imageView);
+
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -33,7 +37,12 @@ public class SplashActivity extends AppCompatActivity {
                 }
                 finish();
             }
-        }, 2500);
-        YoYo.with(Techniques.FadeIn).duration(ANIMATION_DURATION).playOn(view);
+        }, 1500);
     }
+
+
+
 }
+
+
+

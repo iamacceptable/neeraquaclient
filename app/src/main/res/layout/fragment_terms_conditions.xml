@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-             xmlns:tools="http://schemas.android.com/tools"
-             android:layout_width="match_parent"
-             android:layout_height="match_parent"
-             android:background="#FFF"
-             tools:context=".fragments.TermsConditionsFragment">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFF"
+    tools:context=".fragments.TermsConditionsFragment">
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:outlineAmbientShadowColor="#000"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            app:cardElevation="2dp"
+            app:cardCornerRadius="5dp"
+
+       >
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -23,6 +37,7 @@
                 android:fontFamily="@font/opensanssemibold"
                 android:gravity="center_horizontal"
                 android:text="@string/terms_amp_conditions"
+                android:background="@drawable/home_gradient"
                 android:textSize="25dp"/>
 
             <TextView
@@ -33,5 +48,8 @@
                 android:fontFamily="@font/opensansregular"
                 android:textSize="18dp"/>
         </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
     </ScrollView>
 </FrameLayout>

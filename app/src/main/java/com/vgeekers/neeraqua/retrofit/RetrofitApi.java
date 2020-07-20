@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitApi {
 
-    private static final String BASE_URL = "https://winspiration.co/demo/pani/api/";
+    private static final String BASE_URL = "http://Neeraqua.com/api/";
 
     private static PaniServices sPaniServices = null;
 

@@ -11,20 +11,10 @@ import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.Toast;
 import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
-import com.facebook.accountkit.AccountKit;
-import com.facebook.accountkit.AccountKitLoginResult;
-import com.facebook.accountkit.ui.AccountKitActivity;
-import com.facebook.accountkit.ui.AccountKitConfiguration;
-import com.facebook.accountkit.ui.LoginType;
 import com.google.android.material.textfield.TextInputLayout;
-import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.messaging.FirebaseMessaging;
-import com.vgeekers.neeraqua.Authentication;
 import com.vgeekers.neeraqua.R;
-import com.vgeekers.neeraqua.TerminalConstant;
+import com.vgeekers.neeraqua.SignUpOtpActivity;
 import com.vgeekers.neeraqua.response.CityResponse;
-import com.vgeekers.neeraqua.response.CommonResponse;
 import com.vgeekers.neeraqua.response.FetchAllStatesResponse;
 import com.vgeekers.neeraqua.response.LocalityResponse;
 import com.vgeekers.neeraqua.retrofit.RetrofitApi;
@@ -34,9 +24,6 @@ import retrofit2.Response;
 
 import java.util.List;
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class SignUp extends BaseFragment {
 
     private TextInputLayout signUpMobile;
@@ -50,13 +37,8 @@ public class SignUp extends BaseFragment {
     private String mCitySelected = "";
     private String mLocalitySelected = "";
 
-    public SignUp() {
-        // Required empty public constructor
-    }
-
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
         View v = inflater.inflate(R.layout.fragment_sign_up, container, false);
         signUpMobile = v.findViewById(R.id.signUpMobile);
         signUpName = v.findViewById(R.id.signUpName);
@@ -70,7 +52,19 @@ public class SignUp extends BaseFragment {
         signUpBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                sendFacebookOtpForVerification();
+                Intent intent = new Intent(getActivity(), SignUpOtpActivity.class);
+                String userMobile = signUpMobile.getEditText().getText().toString().trim();
+                String userName = signUpName.getEditText().getText().toString().trim();
+                String userPassword = signUpPassword.getEditText().getText().toString().trim();
+                String userHouseNumber = signUphouseNo.getEditText().getText().toString().trim();
+                intent.putExtra("mobile", userMobile);
+                intent.putExtra("name", userName);
+                intent.putExtra("pass", userPassword);
+                intent.putExtra("hno", userHouseNumber);
+                intent.putExtra("state", mStateSelected);
+                intent.putExtra("city", mCitySelected);
+                intent.putExtra("locality", mLocalitySelected);
+                startActivity(intent);
             }
         });
         return v;
@@ -176,85 +170,5 @@ public class SignUp extends BaseFragment {
                 showToast(t.toString());
             }
         });
-    }
-
-    private void getSignUpApiCall() {
-        String userMobile = signUpMobile.getEditText().getText().toString().trim();
-        String userName = signUpName.getEditText().getText().toString().trim();
-        String userPassword = signUpPassword.getEditText().getText().toString().trim();
-        String userHouseNumber = signUphouseNo.getEditText().getText().toString().trim();
-        String token = FirebaseInstanceId.getInstance().getToken();
-        showProgress();
-        RetrofitApi.getPaniServicesObject().getSignUpResponse(userName, userMobile, userPassword, userHouseNumber, mStateSelected, mCitySelected, mLocalitySelected, token).enqueue(new Callback<CommonResponse>() {
-            @Override
-            public void onResponse(@NonNull Call<CommonResponse> call, @NonNull Response<CommonResponse> response) {
-                stopProgress();
-                if (response.isSuccessful()) {
-                    CommonResponse commonResponse = response.body();
-                    if (commonResponse != null && commonResponse.getErrorCode().equals(TerminalConstant.SUCCESS)) {
-                        Toast.makeText(getContext(), "SignUp Successful, please login again to confirm your credentials", Toast.LENGTH_SHORT).show();
-                        startActivity(new Intent(getActivity(), Authentication.class));
-                    } else if (commonResponse != null && commonResponse.getErrorCode() != null) {
-                        showToast(commonResponse.getErrorMessage());
-                    }
-                }
-            }
-
-            @Override
-            public void onFailure(@NonNull Call<CommonResponse> call, @NonNull Throwable t) {
-                stopProgress();
-                Toast.makeText(getContext(), t.toString(), Toast.LENGTH_SHORT).show();
-            }
-        });
-    }
-
-    /*
-     * Facebook Otp verification
-     * */
-
-    private static final int APP_REQUEST_CODE = 99;
-
-    private void sendFacebookOtpForVerification() {
-        final Intent intent = new Intent(getActivity(), AccountKitActivity.class);
-        AccountKitConfiguration.AccountKitConfigurationBuilder configurationBuilder =
-            new AccountKitConfiguration.AccountKitConfigurationBuilder(
-                LoginType.PHONE,
-                AccountKitActivity.ResponseType.CODE); // or .ResponseType.TOKEN
-        // ... perform additional configuration ...
-        intent.putExtra(
-            AccountKitActivity.ACCOUNT_KIT_ACTIVITY_CONFIGURATION,
-            configurationBuilder.build());
-        startActivityForResult(intent, APP_REQUEST_CODE);
-    }
-
-    @Override
-    public void onActivityResult(final int requestCode, final int resultCode, final Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        if (requestCode == APP_REQUEST_CODE) { // confirm that this response matches your request
-            AccountKitLoginResult loginResult = data.getParcelableExtra(AccountKitLoginResult.RESULT_KEY);
-            String toastMessage;
-            if (loginResult.getError() != null) {
-                toastMessage = loginResult.getError().getErrorType().getMessage();
-            } else if (loginResult.wasCancelled()) {
-                toastMessage = "Login Cancelled";
-            } else {
-                if (loginResult.getAccessToken() != null) {
-                    toastMessage = "Success:" + loginResult.getAccessToken().getAccountId();
-                } else {
-                    toastMessage = String.format("Success:%s...", loginResult.getAuthorizationCode().substring(0, 10));
-                }
-                // If you have an authorization code, retrieve it from
-                // loginResult.getAuthorizationCode()
-                // and pass it to your server and exchange it for an access token.
-                // Success! Start your next activity...
-            }
-            // Surface the result to your user in an appropriate way.
-            showToast(toastMessage);
-            getSignUpApiCall();
-        }
-    }
-
-    private void facebookLogout() {
-        AccountKit.logOut();
     }
 }

@@ -44,12 +44,17 @@ import static com.vgeekers.neeraqua.TerminalConstant.USER_ID_KEY;
 public class MyCartFragment extends BaseFragment {
 
     private RecyclerView ordersRecycler;
+    TextView totalPrice;
+    String price;
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.activity_cart, container, false);
         ordersRecycler = view.findViewById(R.id.ordersRecycler);
+        totalPrice = view.findViewById(R.id.totalprice);
+        //totalPrice.setText(price);
+        //Toast.makeText(getActivity(), ""+price, Toast.LENGTH_SHORT).show();
         view.findViewById(R.id.cartLayout).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -77,6 +82,8 @@ public class MyCartFragment extends BaseFragment {
                     if (bookingResponse != null && !bookingResponse.getBooking().isEmpty()) {
                         List<Booking> list = bookingResponse.getBooking();
                         vendorId = bookingResponse.getVendorId();
+                        price = "Total price Rs:" + bookingResponse.getBotprice();
+                        totalPrice.setText(price);
                         ordersRecycler.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
                         ordersRecycler.setAdapter(new MyCartAdapter(list));
                         getTimeSlotList();
@@ -87,7 +94,10 @@ public class MyCartFragment extends BaseFragment {
             @Override
             public void onFailure(@NonNull Call<FetchBottleBookingResponse> call, @NonNull Throwable t) {
                 showToast("Sorry, no item available in your cart");
+                totalPrice.setText("0");
                 isCartEmpty = true;
+                ordersRecycler.setLayoutManager(new LinearLayoutManager(getApplicationContext()));
+                ordersRecycler.setAdapter(new MyCartAdapter(new ArrayList<Booking>()));
             }
         });
     }
@@ -165,11 +175,13 @@ public class MyCartFragment extends BaseFragment {
         }
 
         @Override
-        public void onBindViewHolder(@NonNull final MyCartAdapter.MyCartViewHolder holder, int position) {
+        public void onBindViewHolder(@NonNull final MyCartAdapter.MyCartViewHolder holder, final int position) {
             /*Empty for now*/
             final Booking bottleAvailable = list.get(position);
             String brand = "Company : ".concat(bottleAvailable.getbBrand().toUpperCase());
             holder.itemAddress.setText(brand);
+            String bottelPrice = "Rs:" + bottleAvailable.getPerPrice();
+            holder.itemPriceDet.setText(bottelPrice);
             String quantity = bottleAvailable.getQuantity();
             if (quantity.equals("1")) {
                 quantity = quantity.concat(" bottle");
@@ -182,6 +194,9 @@ public class MyCartFragment extends BaseFragment {
                 @Override
                 public void onClick(View view) {
                     deleteFromCart(bottleAvailable.getCartId());
+                    if (list.isEmpty()) {
+                        totalPrice.setText(0);
+                    }
                 }
             });
         }
@@ -200,6 +215,7 @@ public class MyCartFragment extends BaseFragment {
             private TextView itemMobile;
             private TextView itemQuantity;
             private TextView itemAddress;
+            private TextView itemPriceDet;
 
             MyCartViewHolder(View itemView) {
                 super(itemView);
@@ -210,6 +226,7 @@ public class MyCartFragment extends BaseFragment {
                 itemAddress = itemView.findViewById(R.id.itemAddress);
                 itemBrand = itemView.findViewById(R.id.itemBrandName);
                 itemQuantity = itemView.findViewById(R.id.itemQuantity);
+                itemPriceDet = itemView.findViewById(R.id.itemPriceDet);
             }
         }
     }
@@ -248,6 +265,7 @@ public class MyCartFragment extends BaseFragment {
     public void onResume() {
         super.onResume();
         ((AppCompatActivity) getActivity()).getSupportActionBar().hide();
+        this.onCreate(null);
     }
 
     @Override

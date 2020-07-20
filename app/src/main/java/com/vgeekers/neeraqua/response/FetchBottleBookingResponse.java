@@ -20,6 +20,20 @@ public class FetchBottleBookingResponse {
     @Expose
     private String vendorId;
 
+    @SerializedName("totalPrice")
+    @Expose
+    private String Botprice;
+
+
+
+    public String getBotprice() {
+        return Botprice;
+    }
+
+    public void setBotprice(String botprice) {
+        Botprice = botprice;
+    }
+
     public String getVendorId() {
         return vendorId;
     }

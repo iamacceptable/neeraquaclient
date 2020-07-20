@@ -15,8 +15,8 @@ import java.util.List;
 
 public class BaseFragment extends Fragment {
 
-    protected ProgressDialog mProgressDialog;
     protected static List<String> sStateList = new ArrayList<>();
+    protected ProgressDialog mProgressDialog;
 
     protected void showProgress() {
         mProgressDialog = new ProgressDialog(getContext());
@@ -49,7 +49,7 @@ public class BaseFragment extends Fragment {
         }
     }
 
-    protected void setupStateSpinner() {
+    void setupStateSpinner() {
         RetrofitApi.getPaniServicesObject().getAllStates().enqueue(new Callback<FetchAllStatesResponse>() {
             @Override
             public void onResponse(@NonNull Call<FetchAllStatesResponse> call, @NonNull Response<FetchAllStatesResponse> response) {

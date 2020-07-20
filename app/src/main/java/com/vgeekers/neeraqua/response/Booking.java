@@ -31,6 +31,18 @@ public class Booking {
     @Expose
     private String cartId;
 
+    @SerializedName("price")
+    @Expose
+    private String perPrice;
+
+    public String getPerPrice() {
+        return perPrice;
+    }
+
+    public void setPerPrice(String perPrice) {
+        this.perPrice = perPrice;
+    }
+
     public String getCartId() {
         return cartId;
     }
