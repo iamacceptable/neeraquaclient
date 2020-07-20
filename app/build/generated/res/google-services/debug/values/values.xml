@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">25000644094-08264mu3a385qmdq336rppa5knvt2kvk.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://neer-aqua-client.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">25000644094</string>
-    <string name="google_api_key" translatable="false">AIzaSyBvvCkMV3sUuwE9Og5n_Etw1eNCxJSToa0</string>
-    <string name="google_app_id" translatable="false">1:25000644094:android:e4d38f0d3d4e3f33b804af</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvvCkMV3sUuwE9Og5n_Etw1eNCxJSToa0</string>
-    <string name="google_storage_bucket" translatable="false">neer-aqua-client.appspot.com</string>
-    <string name="project_id" translatable="false">neer-aqua-client</string>
+    <string name="default_web_client_id" translatable="false">993791213860-4ckd9csf4tbgb5a3h3aulldtrb0gar7k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://paniclient.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">993791213860</string>
+    <string name="google_api_key" translatable="false">AIzaSyBGKFNkZY5GkA-iFCnFcpXOafgs_GTR35M</string>
+    <string name="google_app_id" translatable="false">1:993791213860:android:5f42b7e29029733dc573b1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGKFNkZY5GkA-iFCnFcpXOafgs_GTR35M</string>
+    <string name="google_storage_bucket" translatable="false">paniclient.appspot.com</string>
+    <string name="project_id" translatable="false">paniclient</string>
 </resources>
